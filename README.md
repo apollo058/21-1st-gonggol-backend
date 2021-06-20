@@ -34,12 +34,12 @@
 - tag를 이용해 True, False 값으로 신상품, 세일상품, 베스트 상품 response
 ### 상품상세
 - 패스 파라미터로 product_id 값으로 데이터 response, 각 상품들의 size 재고, 가격, discount, image, image body response
-### 로그인 & 회원가입 ** 내가 구현한 부분 **
+### 로그인 & 회원가입 _ 내가 구현한 부분
 - 회원가입 정규표현식을 활용한 입력항목 유효성 체크 구현
 - 회원가입 Bcrypt활용한 password 암호화 및 복호화 구현
 - 로그인 JWT를 활용한 token 발행 구현
 - Decorator를 활용한 회원 인가 구현
-### 장바구니 ** 내가 구현한 부분 **
+### 장바구니 _ 내가 구현한 
 - Django 기초적인 CRUD 활용한 장바구니 생성, 추가, 삭제 구현
 - Login Decorator를 통한 회원정보 확인 구현
 ## Reference
