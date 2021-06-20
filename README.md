@@ -14,7 +14,7 @@
 - 배찬영
 - 최승리
 - 한성봉
-#### [백엔드 Github 링크](https://github.com/wecode-bootcamp-korea/21-1st-gonggol-backend)
+#### [프론트엔드 Github 링크](https://github.com/wecode-bootcamp-korea/21-1st-gonggol-frontend/tree/README)
 ## 데모 영상
 [![데모영상](http://img.youtube.com/vi/um9Wr2I_JRE/0.jpg)](https://www.youtube.com/watch?v=um9Wr2I_JRE)
 ## 적용 기술
